@@ -23,3 +23,5 @@ regular files
 a hidden file
 a subdirectory named drafts
 Each file showed a 10-character permission string that defines access rights.
+
+![Permissions check](screenshots/ls-la.png)
